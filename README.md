@@ -2,7 +2,7 @@
 
 Hi, I'm Gregor. I want to learn React for both work and Open Source projects. I would like to hire someone I can pair with on a regular basis to help me learn better.
 
-# Who I'm looking for
+## Who I'm looking for
 
 - Pairing on Open Source with full attribution
 - Hours: 20-40h per month, for a minimum of 3 months
@@ -12,14 +12,14 @@ Hi, I'm Gregor. I want to learn React for both work and Open Source projects. I 
 - Fully Remote
 - I strongly encourage you to apply if you are from a marginalized group in Open Source
 
-# What we will pair on
+## What we will pair on
 
 - Technologies: React and [Primer](https://primer.style/react/), but also [Octokit](https://github.com/octokit/octokit.js), [Next.js](https://nextjs.org/), and other technologies needed for our projects
 - Project Forms: https://github.com/project-forms/project-forms.github.io/issues/1
 - octokit-primer libraries and components
 - Other GitHub related Open Source projects that combine Octokit with Primer - we can decide together what that could be
 
-# The process
+## The process
 
 1.  Finding candidates: applications by October 30th
 2.  Interviews (20-30 min) with up to 10 candidates (as a thank you I will donate $40 to your US-based non-profit organization of choice)
@@ -27,7 +27,7 @@ Hi, I'm Gregor. I want to learn React for both work and Open Source projects. I 
 4.  Trial with up to 3 candidates: 1 week, paid
 5.  Contract
 
-# Application
+## Application
 
 If you have any questions, please do send me an email to teach-gregor-some-react@martynus.net
 
@@ -35,7 +35,7 @@ When you are ready to apply, please submit this Google form by October 15th:
 
 https://docs.google.com/forms/d/e/1FAIpQLSe1GDwecyQn0-Jg1LqwWxaJCDJ6NHWBlXj6A-cRBtYsZzdiEA/viewform?usp=sf_link
 
-# About me
+## About me
 
 Hi, I am Gregor. I have been an Open Source maintainer for 10+ years. I currently (co-)maintain [@octokit](https://github.com/octokit), [@probot](https://github.com/probot), [@octoherd](https://github.com/octoherd), [@all-contributors](https://github.com/all-contributors), [@semantic-release](https://github.com/semantic-release), [@nock](https://github.com/nock), and several smaller projects.
 
