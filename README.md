@@ -31,7 +31,7 @@ Hi, I'm Gregor. I want to learn React for both work and Open Source projects. I 
 
 If you have any questions, please do send me an email to teach-gregor-some-react@martynus.net
 
-When you are ready to apply, please submit this Google form by October 15th:
+When you are ready to apply, please submit this Google form by October 30th:
 
 https://docs.google.com/forms/d/e/1FAIpQLSe1GDwecyQn0-Jg1LqwWxaJCDJ6NHWBlXj6A-cRBtYsZzdiEA/viewform?usp=sf_link
 
