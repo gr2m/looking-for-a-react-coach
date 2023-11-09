@@ -1,3 +1,7 @@
+# ⚠️ I put my search on hold
+
+Out of respect of the people affected by the conflict in Gaza, including many of my friends and loved ones, I stopped promoting my search and put it on hold for now. I will resume it when it's appropriate. Thank you for submitting your applications, I will reach out to everyone of you separately.
+
 # I'm looking to hire a React coach
 
 Hi, I'm Gregor. I want to learn React for both work and Open Source projects. I would like to hire someone I can pair with on a regular basis to help me learn better.
